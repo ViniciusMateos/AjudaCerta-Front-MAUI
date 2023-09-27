@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\3AI\\AjudaCerta\\AjudaCertaCadastro\\AjudaCerta\\AjudaCerta\\AjudaCerta.csproj": {}
+    "D:\\3AI\\AjudaCerta\\AjudaCerta-Front-MAUI\\AjudaCerta\\AjudaCerta.csproj": {}
   },
   "projects": {
-    "D:\\3AI\\AjudaCerta\\AjudaCertaCadastro\\AjudaCerta\\AjudaCerta\\AjudaCerta.csproj": {
+    "D:\\3AI\\AjudaCerta\\AjudaCerta-Front-MAUI\\AjudaCerta\\AjudaCerta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\3AI\\AjudaCerta\\AjudaCertaCadastro\\AjudaCerta\\AjudaCerta\\AjudaCerta.csproj",
+        "projectUniqueName": "D:\\3AI\\AjudaCerta\\AjudaCerta-Front-MAUI\\AjudaCerta\\AjudaCerta.csproj",
         "projectName": "AjudaCerta",
-        "projectPath": "D:\\3AI\\AjudaCerta\\AjudaCertaCadastro\\AjudaCerta\\AjudaCerta\\AjudaCerta.csproj",
+        "projectPath": "D:\\3AI\\AjudaCerta\\AjudaCerta-Front-MAUI\\AjudaCerta\\AjudaCerta.csproj",
         "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-        "outputPath": "D:\\3AI\\AjudaCerta\\AjudaCertaCadastro\\AjudaCerta\\AjudaCerta\\obj\\",
+        "outputPath": "D:\\3AI\\AjudaCerta\\AjudaCerta-Front-MAUI\\AjudaCerta\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

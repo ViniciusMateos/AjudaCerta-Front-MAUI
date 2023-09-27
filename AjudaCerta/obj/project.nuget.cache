@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MAOxeM4nHYpWJ4wNjjMLFzxCHYxYbfvhUkRfvlvxYH6iw8fNiv2vzO30bnULk+2iC3ftEobVp0mIoxAortrU3w==",
+  "dgSpecHash": "pgf2N/X1VMwN904VUPTtZ28aMrmPWnhgN1l0gfg9QGIqkUsaxy4kRfOcAR6ZtepIY37/wl1SNZD8PWNAzAw3Kg==",
   "success": true,
-  "projectFilePath": "D:\\3AI\\AjudaCerta\\AjudaCertaCadastro\\AjudaCerta\\AjudaCerta\\AjudaCerta.csproj",
+  "projectFilePath": "D:\\3AI\\AjudaCerta\\AjudaCerta-Front-MAUI\\AjudaCerta\\AjudaCerta.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\etechas\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
